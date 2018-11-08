@@ -1,5 +1,6 @@
 # Kaggle-competition-code
 This kernel including how i did feature engineering and the model building parts. 
+Since the competition is confidential on Kaggle, please contact me if you want the dataset.
 
 2018 Travelers Statistical Modeling Competition: Claim Fraud Detection
 
